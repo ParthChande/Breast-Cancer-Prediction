@@ -45,6 +45,9 @@ The dataset used in this project is the Wisconsin Breast Cancer dataset (`data/d
 
 After running the script, the model evaluates its performance using a confusion matrix and calculates the accuracy score. The confusion matrix visualizes the true positive, true negative, false positive, and false negative predictions, providing insights into the model's effectiveness in diagnosing breast cancer.
 
+![image](https://github.com/ParthChande/Breast-Cancer-Prediction/assets/119730313/9626551f-4744-4bae-8bc8-3249da56fd24)
+
+
 ## Requirements
 
 - pandas
